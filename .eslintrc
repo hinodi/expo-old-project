@@ -1,0 +1,7 @@
+{
+    "extends": "rallycoding",
+    "rules": {
+        "max-len": ["error", { "code": 200 }],
+        "global-require": "off"
+    }
+}
